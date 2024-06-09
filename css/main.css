@@ -50,6 +50,9 @@ h1.title {
   float: right;
   text-align: right; }
 
+.heading {
+  padding-top: 10px; }
+
 .score-container, .best-container {
   position: relative;
   display: inline-block;
