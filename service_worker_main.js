@@ -5,7 +5,7 @@ const CACHE_NAME = 'cache-v1';
 const resourceList = [
   '/',
   'index.html',
-  '2048_logo.svg',
+  '/img/2048_logo.svg',
   '/css/main.css',
   '/css/clear-sans.css',
   '/css/ClearSans-Bold-webfont.woff',
