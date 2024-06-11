@@ -28,7 +28,7 @@
             "type": "image/png"
         }
     ],
-    "start_url": "/",
+    "start_url": "/2048es",
     "display": "standalone",
     "background_color": "#ECC402",
     "orientation": "portrait"
